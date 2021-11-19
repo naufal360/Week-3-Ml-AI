@@ -1,5 +1,5 @@
 {
-  "name": "movielens-app",
+  "name": "naufalmovie",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -16,5 +16,17 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
-  }
+  },
+  "description": "Install the package using npm.",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naufal360/Week-3-Ml-AI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naufal360/Week-3-Ml-AI/issues"
+  },
+  "homepage": "https://github.com/naufal360/Week-3-Ml-AI#readme"
 }
